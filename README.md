@@ -16,3 +16,6 @@ Upon running the program, the home screen will be displayed with instructions, P
 
 ## Credits
 Developed by [Aman Aayush], University: [Thapar Institute of Engineering & Technology,Patiala, Punjab ], Course: [UCS-505 , Computer Graphics], Year: [2024]
+
+## Video Link
+https://youtu.be/f0IMKITgWIE?si=orBS4o2Nq37mSjf6
